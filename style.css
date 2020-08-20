@@ -1,4 +1,11 @@
 body {
   min-height: 100vh;
+  padding-top: 208px;
   padding-bottom: 104px;
 }
+
+/* .clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+} */
